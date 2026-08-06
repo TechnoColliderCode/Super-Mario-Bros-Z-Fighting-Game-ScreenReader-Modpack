@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuqNbMb4AaA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaydi\\Downloads\\SMBZ-G (Ver.1.12) (Winx64)\\AccessibilityMod\\AccessibilityMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaydi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\jaydi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

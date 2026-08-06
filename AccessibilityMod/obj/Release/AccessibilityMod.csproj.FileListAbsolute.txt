@@ -1,0 +1,7 @@
+C:\Users\jaydi\Downloads\SMBZ-G (Ver.1.12) (Winx64)\AccessibilityMod\obj\Release\AccessibilityMod.csproj.AssemblyReference.cache
+C:\Users\jaydi\Downloads\SMBZ-G (Ver.1.12) (Winx64)\AccessibilityMod\obj\Release\AccessibilityMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaydi\Downloads\SMBZ-G (Ver.1.12) (Winx64)\AccessibilityMod\obj\Release\AccessibilityMod.AssemblyInfoInputs.cache
+C:\Users\jaydi\Downloads\SMBZ-G (Ver.1.12) (Winx64)\AccessibilityMod\obj\Release\AccessibilityMod.AssemblyInfo.cs
+C:\Users\jaydi\Downloads\SMBZ-G (Ver.1.12) (Winx64)\AccessibilityMod\obj\Release\AccessibilityMod.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\Downloads\SMBZ-G (Ver.1.12) (Winx64)\AccessibilityMod\bin\SMBZG.Accessibility.dll
+C:\Users\jaydi\Downloads\SMBZ-G (Ver.1.12) (Winx64)\AccessibilityMod\obj\Release\SMBZG.Accessibility.dll
